@@ -20,8 +20,8 @@
 
 ### Links
 
-- Solution URL: https://github.com/ortalyarts/fronendmentor-faq-accordion-2
-- Live Site URL: https://fronendmentor-faq-accordion-2.vercel.app/
+- Solution URL: https://github.com/ortalyarts/freecodecamp-personal-portfolio-webpage
+- Live Site URL: https://freecodecamp-personal-portfolio-webpage.vercel.app/
 
 ## My process
 
